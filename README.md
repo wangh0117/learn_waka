@@ -1,3 +1,1 @@
-# gitbook-template
-
-说明详见 https://github.com/riskers/blog/issues/48
+以一个门外汉为起点，开始学习日本和歌。
