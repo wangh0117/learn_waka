@@ -29,12 +29,12 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "learn_waka"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "riskers",
-        "repo": "gitbook-template",
+        "user": "wangh0117",
+        "repo": "learn_waka",
         "type": "star",
         "size": "small",
         "count": true
