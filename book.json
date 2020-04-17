@@ -18,8 +18,7 @@
     "splitter",
     "todo",
     "copy-code-button",
-    "expandable-chapters-small",
-    "donate"
+    "expandable-chapters-small"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -66,14 +65,6 @@
     },
     "bibtex-indexed-cite": {
       "path": "/"
-    },
-    "donate": {
-      "wechat": "https://riskers.github.io/gitbook-template/wechat.jpg",
-      "alipay": "https://riskers.github.io/gitbook-template/alipay.jpg",
-      "title": "",
-      "button": "赏",
-      "alipayText": "支付宝打赏",
-      "wechatText": "微信打赏"
     }
   }
 }
