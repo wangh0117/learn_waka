@@ -3,3 +3,4 @@ _book
 .vitepress/dist
 .vitepress/cache
 .DS_Store
+.local.env
