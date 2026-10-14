@@ -1,0 +1,13 @@
+{
+  "name": "learn_waka",
+  "private": true,
+  "description": "日本和歌初探——一个门外汉的和歌学习笔记",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
